@@ -1,3 +1,6 @@
+# wubby art site - this project is for a multi use art portfolio website for my online persona and side project Wubby Beatrix
+
+//everything after here was created with the npx create-react-app
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
